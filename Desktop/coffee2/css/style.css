@@ -1,0 +1,237 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto";
+
+}
+
+.header {
+    font-family: "Roboto";
+    height: 65vh;
+    background-image: url(../img/art-3.jpg);
+  
+    background-size: cover;
+    background-position: top;
+
+  
+}
+
+
+.logo-box {
+    position: absolute;
+    top: 10px;
+    left: 103px;
+    bottom: 636px;
+    right: 1302px;
+  
+}
+
+.logo {
+
+    height: 35px;
+    fill: solid;
+}
+
+
+.heading-primary {
+    color: white;
+
+}
+
+.heading-primary-sub {
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.09px;
+}
+
+.heading-primary-main {
+    display: block;
+    color: white;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+}
+
+.text-box {
+    position: absolute;
+    top: 260px;
+    left: 557px;
+    right: 556px;
+    bottom: 311px;
+    text-align: center;
+}
+
+
+.btn-black {
+    background-color: #1A1A1A;
+    height: 48px;
+    width: 163px;
+ 
+    left: 83px;
+    top: 143px;
+    right: 639px;
+    bottom: 90px;
+    position: absolute;  
+}
+
+.btn-zum {
+    color: white;
+    text-decoration: none;
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    left: 125px;
+    top: 160px;
+    right: 639px;
+    bottom: 90px;
+    position: absolute;  
+    padding: 15px, 50px, 15px, 50px;
+}
+
+.btn-shop {
+    color: white;
+    text-decoration: none;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    left: 155px;
+    top: 160px;
+    right: 639px;
+    bottom: 90px;
+    position: absolute;  
+    padding: 15px, 50px, 15px, 50px;
+}
+
+.cafe {
+    position: absolute;
+    top: 18px;
+    bottom: 642px;
+    left: 1020px;
+    right: 348px;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 21px;
+    color: white;
+    font-family: Roboto;
+}
+
+.herkunft {
+    position: absolute;
+    right: 211px;
+    left: 1158px;   
+    top: 18px;
+    bottom: 642px;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 21px;
+    color: white;
+    font-family: Roboto;
+}
+
+.shop {
+    position: absolute;
+    font-size: 18px;
+    text-decoration: none;
+    line-height: 21px;
+    color: white;
+    font-family: Roboto;
+    right: 100px;
+    left: 1298px;
+    bottom: 642px;
+    top: 18px;
+}
+
+
+.text-1 {
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 104px;
+    position: absolute;
+    top: 805px;
+}
+
+
+.coffeeshop {
+    background-image: 10% 10%;
+    position: absolute;
+    top: 805px;
+    bottom: ;
+    left: 732px;
+    right: 101px;
+
+}
+
+.coffeshop-text {
+    left: 100px;
+    top: 896px;
+    right: 824px;
+    position: absolute;
+    color:red;
+}
+
+
+.kaffeetuete {
+    position: absolute;
+    left: 260px;
+    right: 778px;
+
+}
+
+.section-herkunft-title-Herkunft {
+    font-family: Roboto;    
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.section-herkunft-content {
+    position: absolute;
+    width: 306px;
+    height: 96px;
+    left: 554px;
+    top: 3163px;
+}
+
+.section-herkunft-content-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+}
+
+.btn-mehr {
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 687px;
+    top: 3294px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+
